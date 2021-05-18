@@ -156,4 +156,4 @@ If you use this code for your research, please cite our paper.
 
 This project is licensed under the terms of **the Apache License 2.0**.
 
-Copyright 2021 Kakao Brain Corp. <https://www.kakaobrain.com> All Rights Reserved.
+Copyright 2021 Kakao Brain Corp. <https://www.kakaobrain.com> All Rights Reserved.Image Embedding
